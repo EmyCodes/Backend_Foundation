@@ -9,13 +9,10 @@ middleName = middleName.capitalize()
 now = dt.date.today()  # dt.datetime.now() cn also be used to get today's date from computer internal clock
 
 
-def username(fname=firstName, surname=lastName, last_logged=now, midname=middleName):  # Practice function
+def username(**kwargs):  # Practice function
     """Docstring here"""
-    print("\n Last Logged in at {}\n".format(last_logged))
-    if len(midname) > 0:
-        print("Hey {} {} {}!".format(fname, surname, midname))
+    print("\n Last Logged in at {}\n".format(now))
+    if len(middleName) > 0:
+        print("Hey {} {} {}!".format(firstName, lastName, middleName))
     else:
-        print("Hey {} {}!".format(fname, surname))
-
-
-username()
+        print("Hey {} {}!".format(firstName, lastName))

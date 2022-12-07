@@ -1,4 +1,2 @@
-import user2
-from datetime import *
-user = username()
-print(user)
+from user2 import *
+username()
