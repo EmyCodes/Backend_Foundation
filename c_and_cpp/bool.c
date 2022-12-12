@@ -8,5 +8,6 @@ int main(void)
 
 	printf("%d\n", isProgrammingFun);
 	printf("%d\n", isFishTasty);
+	printf("%d\n", isProgrammingFun == isFishTasty);
 	return(0);
 }
