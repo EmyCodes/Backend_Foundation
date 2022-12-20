@@ -4,6 +4,9 @@ int main(void)
 {
 	int myAge = 43;
 
-	printf("%p\n", &myAge);
+	int* ptr = &myAge;
+
+	printf("%p\n", ptr);
+	printf("%d\n", *ptr);
 	return(0);
 }
