@@ -5,6 +5,7 @@ class Person:
 	def compute(name_age):
 		print("{}({})".format(name_age.name, name_age.age))
 class Student(Person):
-	pass
-x = Student("Innocent", 27)
+	def __init__(user, name, age):
+		Person.__init__(user, name, age)
+x = Student("Zipporah", 21)
 x.compute()
