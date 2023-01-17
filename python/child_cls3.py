@@ -1,9 +1,9 @@
 class Person:
 	def __init__(user, name, age):
-		user.name = name
-		user.age = age
+		user.YourName = name
+		user.YourAge = age
 	def compute(name_age):
-		print("{}({})".format(name_age.name, name_age.age))
+		print("{}({})".format(name_age.YourName, name_age.YourAge))
 class Student(Person):
 	def __init__(anything, name, age):
 		super().__init__(name, age)
