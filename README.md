@@ -1,1 +1,1 @@
-Personal Exercises using Python
+Exercises on Python, C, and C++
