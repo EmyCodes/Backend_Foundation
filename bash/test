@@ -1,0 +1,7 @@
+#!/bin/sh
+if test -f "$1"
+then
+	cp "$1"
+else
+	echo "No such file"
+fi

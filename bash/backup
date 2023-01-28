@@ -1,0 +1,7 @@
+#!/bin/sh
+if cp "$1" "copied-$1"
+then
+	vi "$1"
+else
+	echo "Failed to create backup copy"
+fi
