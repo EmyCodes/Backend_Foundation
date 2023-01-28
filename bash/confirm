@@ -8,8 +8,8 @@ case $answer in
 	c|C)
 		echo "CONTINUE"
 	;;
-	N|n)
-		echo "no"
+	n|N)
+		echo "NO"
 	;;
 	*)
 		echo "UNKNOWN"
