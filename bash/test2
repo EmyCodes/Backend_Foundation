@@ -1,0 +1,7 @@
+#!/bin/sh
+if [ -f "$!" ]
+then
+	vi "$1"
+else
+	echo "No such file"
+fi
