@@ -12,7 +12,7 @@ class Customer:
 	@property
 	def customer_mail(self):
 		return f"{self.first_name}.{self.last_name}@email.com"
-
+	
 	
 	@property
 	def customer_fullname(self):
