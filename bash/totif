@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 xwdtopnm < $1.xwd > $1.pnm
 pnmtotiff < $1.pnm > $1.tif
 rm $1.pnm

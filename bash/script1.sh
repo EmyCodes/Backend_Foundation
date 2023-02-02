@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # This script cclears the terminal, displays a greeting and gives information
 # about currently connected users. The two example variales are set and displayed
 

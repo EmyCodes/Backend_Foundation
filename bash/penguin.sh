@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 #This script lets you present different menu to Tux. He will only be happy
 # when given a fish.

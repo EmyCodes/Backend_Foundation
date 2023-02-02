@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # specific conversion script for my html files to php
 LIST="$(ls *.html)"
 for i in "$LIST"; do
