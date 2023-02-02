@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 echo -n "What should I do --- (Y)es/(N)o/(C)ontinue? [Y] "
 read answer
 case $answer in

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 if cp "$1" "copied-$1"
 then
 	vi "$1"
