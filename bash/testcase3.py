@@ -8,5 +8,7 @@ class MyTest(unittest.TestCase):
 		pass
 
 	def test_fraction_construction(self):
-		self.fail("Write this test!")
+		"""sqrt of a negative number should throw ValueError."""
+		with self.assertRaises(ValueError):
+			math.sqrt(-1)
 
