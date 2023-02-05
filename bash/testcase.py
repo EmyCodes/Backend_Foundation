@@ -8,8 +8,14 @@ class TestBuiltins(unittest.TestCase):
 		# edge case
 		self.assertEqual(0, len(""))
 
+
 	def test_str_upper(self):
 		self.assertTrue("ABC".isupper())
 		self.assertFalse("ABc".isupper())
 		s = ""	# edge case
 		self.assertFalse(s.isupper())
+
+
+if __name__ == "__main__":
+	unittest.main()
+
