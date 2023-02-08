@@ -9,7 +9,7 @@ class HelloWorld(cmd.Cmd):
 
 	def do_greet(self, person):
 		"Greet the Person"
-		if person and person in FRIENDS:
+		if person and person in self.FRIENDS:
 			greeting = f"Hi, {person}"
 		elif person:
 			greeting = f"Hello, {person}"
@@ -21,10 +21,7 @@ class HelloWorld(cmd.Cmd):
 		if not text:
 			completions = self.FRIENDS[:]
 		else:
-			completions = [ f
-			for f in self.FRIENDS
-			if f.startawith(text)
-			]
+			completions = [ f for f in self.FRIENDS if f.startswith(text)]
 		return completions
 	
 
