@@ -6,10 +6,9 @@ class MyConsole(cmd.Cmd):
 	prompt = ":~$ "
 	pass
 	
-	def do_author(self, author):
+	def do_author(self, line):
 		"Set yourself as an author"
-		self.author = author
-		print("Hi, {}!\nYou are an Author now".format(self.author))
+		print("Hi, {}!\nYou are an Author now".format(line))
 	
 	def do_EOF(self, line):
 		"Interrupting the Program"
