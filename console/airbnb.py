@@ -2,6 +2,8 @@
 import cmd
 
 class MyConsole(cmd.Cmd):
+
+	prompt = ":~$ "
 	pass
 	
 	def do_EOF(self, line):
