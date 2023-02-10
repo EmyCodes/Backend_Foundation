@@ -7,6 +7,7 @@ class MyConsole(cmd.Cmd):
 	pass
 	
 	def do_author(self, author):
+		"Set yourself as an author"
 		self.author = author
 		print("Hi, {}!\nYou are an Author now".format(self.author))
 	
