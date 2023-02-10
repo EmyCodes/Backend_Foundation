@@ -13,6 +13,9 @@ class MyConsole(cmd.Cmd):
 	def do_create(self, line):
 		"Create a book"
 		print("I have created a ", line)
+
+	def precmd(self, line):
+		return cmd.Cmd.precmd(self, line)
 	def do_EOF(self, line):
 		"Interrupting the Program"
 		return True
