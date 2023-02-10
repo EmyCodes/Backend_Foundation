@@ -3,7 +3,7 @@ import cmd
 
 class MyConsole(cmd.Cmd):
 
-	prompt = ":~$ "
+	prompt = ">>>> "
 	pass
 	
 	def do_author(self, line):
@@ -15,7 +15,11 @@ class MyConsole(cmd.Cmd):
 		print("I have created a ", line)
 
 	def precmd(self, line):
+		if "." in line:
+			line = line.replace(".", " ").replace("(", "").replace(")", "")
+		print(line)
 		return cmd.Cmd.precmd(self, line)
+
 	def do_EOF(self, line):
 		"Interrupting the Program"
 		return True
