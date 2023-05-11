@@ -1,0 +1,761 @@
+commit 6a19805473a1976deb3bbee25320191e78dfda88
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Feb 5 14:30:01 2023 +0100
+
+    testcase3.py renamed as test_case3.py
+
+commit ecb9882c5e9e9e9eb7d644d2c87490da8db63fae
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Feb 5 14:29:31 2023 +0100
+
+    testcase2.py renamed as test_case2.py
+
+commit 30a103a104f5ef0b4f6e1f94ed4a53de84c3618c
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Feb 5 14:29:00 2023 +0100
+
+    testcase.py renamed as test_case.py
+
+commit 0c34faa449c8127a9d087972ea99638851eb8b8e
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Feb 5 14:21:03 2023 +0100
+
+    Test for Exception
+
+commit d9e4b740f5e53a6fd29ce72635c90d31ab395d1f
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Feb 5 14:15:04 2023 +0100
+
+    unittest class method
+
+commit cca9319ab83666c3d4b091f034debde92a7dab73
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Feb 5 13:56:45 2023 +0100
+
+    Exercise done
+
+commit b738982fa2d077a0230e345f1ab0e8f560ba0302
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Feb 5 13:46:26 2023 +0100
+
+    testcase.py edited
+
+commit fb4634dce45f16cc7f6287616d7864d2e0061548
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Feb 5 13:42:47 2023 +0100
+
+    testcase.py added
+
+commit 811110e046d9eb9d59ce3c0b64b11fe39df448c0
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Feb 5 11:49:06 2023 +0100
+
+    first.rb edited
+
+commit 5d655285415eec6e40fe41a43ab4a3713d8661d1
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Feb 5 11:46:33 2023 +0100
+
+    README.md added
+
+commit a50ecfaec942abca5605b2f11e2ec8b1eb43ca74
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Feb 5 11:45:13 2023 +0100
+
+    First regex exercises
+
+commit e9c3a20e717d5b999397c72106211ff672202c76
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Thu Feb 2 18:58:47 2023 +0100
+
+    Updated
+
+commit 9b31ede6e8c995f48312a0cb34e8de67a08ebc77
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Thu Feb 2 18:52:58 2023 +0100
+
+    Updated
+
+commit 5ff4765e1ae393d05bccde069c4c2d03e92aca42
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Thu Feb 2 18:39:03 2023 +0100
+
+    File removed
+
+commit d7ba666f0b5d1b22f75b9692ef4deda9713d9817
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmaiol.com>
+Date:   Wed Feb 1 09:55:07 2023 +0100
+
+    Mdode changed
+
+commit 46f05172287b965b98793cb72d0f34dcc45d4698
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmaiol.com>
+Date:   Wed Feb 1 09:54:31 2023 +0100
+
+    Added
+
+commit 188b32d7b5be8b182847f8de263264434a3d6f2a
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmaiol.com>
+Date:   Wed Feb 1 09:47:39 2023 +0100
+
+    Mode changed
+
+commit 3428bec041c0be44f1bbd6272a72a4f8fca0d42b
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmaiol.com>
+Date:   Wed Feb 1 09:46:12 2023 +0100
+
+    file uploaded
+
+commit 650bea01f71e570190bdc1318df4b1085925038e
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmaiol.com>
+Date:   Wed Feb 1 09:32:08 2023 +0100
+
+    Mode changed
+
+commit baeb266ad0617cbcae359f4289a843680ca4c0c9
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmaiol.com>
+Date:   Wed Feb 1 09:18:33 2023 +0100
+
+    Mode changed
+
+commit 9947863d97b668ee58871a8a77388dbbe727c25b
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmaiol.com>
+Date:   Wed Feb 1 09:18:03 2023 +0100
+
+    disktest.sh
+
+commit c20985e545f851d18336e0a3c539b6197c8c476d
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmaiol.com>
+Date:   Wed Feb 1 09:09:55 2023 +0100
+
+    Editted
+
+commit 03eae300e8106117c24eb9924e127fee4f94f605
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmaiol.com>
+Date:   Wed Feb 1 08:54:05 2023 +0100
+
+    weight.sh edited
+
+commit 4b0305b47d07ea834b660f6b7f96890081415177
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmaiol.com>
+Date:   Wed Feb 1 08:47:45 2023 +0100
+
+    Mode changed
+
+commit 6471c3e32eee803e56a201ba4dd50cf51d349a33
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmaiol.com>
+Date:   Wed Feb 1 08:47:22 2023 +0100
+
+    Mode changed
+
+commit ce429ce8431c33903299d8c8bb23dcad1a73c763
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmaiol.com>
+Date:   Wed Feb 1 08:45:49 2023 +0100
+
+    weight.sh Added
+
+commit 0b47c086326513ae39ae3fb70392a3e2b4835ffe
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmaiol.com>
+Date:   Wed Feb 1 08:26:31 2023 +0100
+
+    File added
+
+commit 91308475ec2d06274cfaeaf27999fbddcdf04a0f
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Mon Jan 30 16:50:52 2023 +0100
+
+    example add
+
+commit 79bddd5edcbcd6bb8f5b82dec45897e3f6a800d1
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Mon Jan 30 11:55:05 2023 +0100
+
+    Modifed
+
+commit dd987348bf18b20bccfd4421717da689718ba3b6
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Mon Jan 30 11:53:36 2023 +0100
+
+    Modified
+
+commit f69ceba0776e039f75a051638cf7ab076a64ae21
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Mon Jan 30 11:32:09 2023 +0100
+
+    Mode changed
+
+commit 31ea4f3ca47fed06a03ab121a47474612b3b7a52
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Mon Jan 30 11:30:30 2023 +0100
+
+    Editted
+
+commit 7f6b3295e7b68c917480a5cf8aecea15f1a1e2d3
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Mon Jan 30 11:24:29 2023 +0100
+
+    swp_removal.sh mode changed
+
+commit 7bd159216bb84bb6dd996d891fc65a8d304ee8b7
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Mon Jan 30 11:23:53 2023 +0100
+
+    swp_removal.sh remove '.swp' file
+
+commit d562b07033447fd2ebe1220cceb9a55e77771356
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Jan 29 18:34:51 2023 +0100
+
+    Commented
+
+commit 7e511a956b3577dacf5aaea0d59074bd158434fd
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Jan 29 18:11:57 2023 +0100
+
+    Editted
+
+commit ddf64685c178741244e4b0c3dd3710e89dbb3a99
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Jan 29 18:08:56 2023 +0100
+
+    Mode changed
+
+commit c5886896831f1af2cbabb7a1e131ee37c79d298f
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Jan 29 18:08:25 2023 +0100
+
+    File added
+
+commit 344b7ddd87ee0e4fa853d167093ceeb6b8f33fc8
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Jan 29 16:04:35 2023 +0100
+
+    mysystem2.sh mode changed
+
+commit 4591d51ae5a45f264642c295e5904e38b0b1e730
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Jan 29 16:03:28 2023 +0100
+
+    mysystem2.sh added
+
+commit 53d43c70cdb3d4a158d8b38bcff5366c493ad31e
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Jan 29 15:53:29 2023 +0100
+
+    Editted
+
+commit 9f97f99128827fc4a01df932729fdacf54af4a95
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Jan 29 15:42:24 2023 +0100
+
+    File updated
+
+commit b52d9ca2c06ac3a83ac041e6532e0b567d3e26d2
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Jan 29 15:35:18 2023 +0100
+
+    Mode changed
+
+commit 5aeced0c4c40db396cac5763a7503ab58838c97a
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Jan 29 15:34:43 2023 +0100
+
+    File added
+
+commit 572c5f1a82175de6a5d46ddd2d7368c6b386cbd1
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Jan 29 00:11:40 2023 +0100
+
+    Editted
+
+commit 8bbf0a6fc9b879c8ec375efa0320ecae689d3666
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Jan 29 00:08:17 2023 +0100
+
+    Mode changed
+
+commit 1147e7132ef530bd2032e5d1fc4b270fefe469b1
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Jan 29 00:07:37 2023 +0100
+
+    confirm file created
+
+commit b5809fa50c4b9f46554872d82691b6d40729952a
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sat Jan 28 23:59:45 2023 +0100
+
+    Editted
+
+commit 7765bfe30eaa301aba98945fc378f7e42af43cb8
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sat Jan 28 23:58:43 2023 +0100
+
+    for_loop mode changed
+
+commit 170e653d4c4be450d3ad8f8a42868164b6528469
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sat Jan 28 23:57:55 2023 +0100
+
+    for_loop
+
+commit f663e9185bffec854f3a2e3abf9837c05e65af93
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sat Jan 28 23:53:24 2023 +0100
+
+    test2 mode changed
+
+commit 56f9bc34b46a21cc95fdc3d44d316086fb788afe
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sat Jan 28 23:52:30 2023 +0100
+
+    Shell script test2
+
+commit 34ce636fb4add580049bc9e5dccb5268f5ac9099
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sat Jan 28 23:50:05 2023 +0100
+
+    Shell script
+
+commit 33c6684e70918d80c5b1a344ba70419a2de124cf
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sat Jan 28 23:49:03 2023 +0100
+
+    README added
+
+commit 552843fe6da39f1d9c820651734458a5e67b4988
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Thu Jan 26 18:55:11 2023 +0100
+
+    File mode changed
+
+commit 9e35d2a40cb73b1d0f7fc69271c55a7b12e6de7d
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Thu Jan 26 18:54:05 2023 +0100
+
+    File moved here
+
+commit b8078504c2e2306ae7d59f4058183c8db2e0b2eb
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Thu Jan 26 12:00:52 2023 +0100
+
+    File mode changed
+
+commit 4148231f907038d62e2f0229105085a7104356be
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Thu Jan 26 12:00:24 2023 +0100
+
+    File added
+
+commit 3f2eb01a0b6b0e1bafea90970d61c4325d8bf708
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Thu Jan 26 11:59:26 2023 +0100
+
+    File mode changed
+
+commit 236c58c0430aa87e8296bcb0783ca65a1d48f9d2
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Thu Jan 26 11:58:56 2023 +0100
+
+    File added
+
+commit edb6ab3e6a78576f20d87cc2991826007613c521
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Thu Jan 26 11:58:17 2023 +0100
+
+    File mode changed
+
+commit 90a5dddb9eaa68344bbcb4d12cfaf7fc1c8523c6
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Wed Jan 25 14:21:21 2023 +0100
+
+    File removed
+
+commit b6435209ccc50e48664c6633328893bfeeefb3ff
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Wed Jan 25 14:18:20 2023 +0100
+
+    README.md editted
+
+commit 590fe42674208ed379c4a535cb48c32872533729
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Wed Jan 25 14:14:27 2023 +0100
+
+    README.md moved here
+
+commit fb966d607d4c8d96d41c5461b21b3649d5fcf23d
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Wed Jan 25 14:13:30 2023 +0100
+
+    README.md added
+
+commit 18994cb5ca0b0ebe8b05f4fa997715b07a9a243b
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Wed Jan 25 14:10:45 2023 +0100
+
+    doctest_customer.py added
+
+commit 70a1501129bd935cc271aa6a48fb831529f5d61f
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Wed Jan 25 14:10:19 2023 +0100
+
+    README.md added
+
+commit b0aaf90a67682fd9920c1b0a384a48cd7b50e892
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Wed Jan 25 13:07:57 2023 +0100
+
+    Mode for file customer.py changed
+
+commit 471b4cd84adbeefa6293a89bee6aa02b45d7cbfa
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Wed Jan 25 13:04:27 2023 +0100
+
+    test file for customer.py
+
+commit 39c4fca34d314e496f161056330369755c3216a9
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Wed Jan 25 13:03:25 2023 +0100
+
+    customer.py added
+
+commit 7f7e3a3863dfe21e3aaa176bcc17b172a2593601
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Wed Jan 25 13:02:52 2023 +0100
+
+    README.md added
+
+commit 0221070ea71a5e39215de5a60966625f33d229d3
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 24 22:40:13 2023 +0100
+
+    Mode change
+
+commit d1f0fd8f829e2f2d060cbe3812204cf5fbc40aba
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 24 22:39:21 2023 +0100
+
+    File added
+
+commit d299e08bac7712f1686a390523644375b5427ee4
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 24 15:21:05 2023 +0100
+
+    Mode changed
+
+commit 6d389e620ffbaf692afcb3256e768eb4b95e3550
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 24 15:20:25 2023 +0100
+
+    File added
+
+commit ed2f1b289d4e7c33ef870be36ae16a0e22d55ef4
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 24 15:12:18 2023 +0100
+
+    File mode changed
+
+commit a28b2c7374cd0d020ed3af8374183cef6d60f0b7
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 24 15:11:49 2023 +0100
+
+    File uploaded
+
+commit 657f9b7da2e6afb4da72ae68a0dff745a2344943
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 24 15:08:12 2023 +0100
+
+    File mode changed
+
+commit f78d0c4890c83feb54e604c1ab77eab073b6ebad
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 24 15:07:46 2023 +0100
+
+    File uploaded
+
+commit ab5b30e71ba8610861882e260749b4b191b56ade
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 24 14:48:14 2023 +0100
+
+    File mode changed
+
+commit 9c0041991246bd36b2ec85a3467cc9de405f79c0
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 24 14:45:02 2023 +0100
+
+    File uploaded
+
+commit b80ecfc628001fac2e75048952463e99b92d415e
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 24 14:35:06 2023 +0100
+
+    Mode changed
+
+commit 6d8ec85a31871a9cf2c2294d1ae1e6dc382c3a52
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 24 14:34:29 2023 +0100
+
+    File uploaded
+
+commit 2698c24ee5b5b1784bdc8d7b5234f1b83f12b1f6
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 24 14:22:38 2023 +0100
+
+    .swp file removed
+
+commit ee6f88a5def8f849ffa02ccf36d22dd14001d213
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 24 14:21:05 2023 +0100
+
+    __pycache__ removed
+
+commit 69bd8562d06787847523c231593c3177cec35fd4
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 24 14:20:04 2023 +0100
+
+    File Mode Changed
+
+commit a2b52df453dca70dcc71ac1a2ef12c27df60d595
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 24 14:18:54 2023 +0100
+
+    File uploaded
+
+commit f792a0088309c3432b886bcfcae04514348ca751
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Fri Jan 20 14:06:33 2023 +0100
+
+    Mode changed
+
+commit e08d5550977cc7796b9312f9e95d543a28bf4b29
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Fri Jan 20 14:06:06 2023 +0100
+
+    File uploaded
+
+commit 292c88fa878fd1810b9f276499406d6ea526e52f
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Fri Jan 20 13:37:59 2023 +0100
+
+    File mode changed
+
+commit 366698eee6768c4639f1f74b9b8c29a8e23967d2
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Fri Jan 20 13:37:20 2023 +0100
+
+    File uploaded
+
+commit c3ff58505aa9afa530962c69c89cbc3d559b9e43
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Thu Jan 19 14:54:25 2023 +0100
+
+    Edited
+
+commit a3267c3af962dc2f1d5e50cce50408405e5dcece
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Thu Jan 19 14:18:55 2023 +0100
+
+    Mode changed for this file
+
+commit 2325017b1924d1ad501ecf8269925fa228920168
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Thu Jan 19 14:18:02 2023 +0100
+
+    Some .py files added
+
+commit 68094c209712f36c8e7f503e28314bdeb3aef6cc
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 17 15:01:35 2023 +0100
+
+    Some .py files uploaded
+
+commit 5bba851fae1e684e8b50be915803efbfec936f3f
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 17 12:20:43 2023 +0100
+
+    Mode Changed
+
+commit 10199ddb655298ed5f7263b256f48f08a5cae565
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Jan 17 12:19:58 2023 +0100
+
+    Some .py files uploaded
+
+commit 99e7529a91393ba30c14587e39a0fb8d2e955513
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Fri Jan 13 13:39:27 2023 +0100
+
+    .swp files removed
+
+commit e64bd65b6cc2717f1d82152c16f5883edfb78fdb
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Fri Jan 13 13:30:52 2023 +0100
+
+    Still on Class and Inheritance
+
+commit 14e04149ccb29d430a8808437dfe2d9961c839ce
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Fri Jan 13 12:34:39 2023 +0100
+
+    Uploaded some .py files
+
+commit 893fc2d3b68a2554aa18aa81d4cae44b40366513
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sat Jan 7 13:08:00 2023 +0100
+
+    Python files updated
+
+commit de0f0663a3a7129df97f54a0628fd04af53de9b9
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Mon Dec 26 10:39:51 2022 +0100
+
+    Repo Renamed and README.md updated
+
+commit 32777ae109bbdc8b1cb2e191b0111ba3cd9a04f6
+Author: JustMajer <oladepohardeniyi06@gmail.com>
+Date:   Tue Dec 20 20:40:01 2022 +0100
+
+    Ok
+
+commit f0bc3b1433aa48bfa7771b5937158687de9ab65e
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Dec 13 17:32:49 2022 +0100
+
+    Some files uploaded
+
+commit 023e9d262221e8ab53ad954968b68d481dabea38
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Mon Dec 12 22:52:09 2022 +0100
+
+    File updated or mode chsnged
+
+commit 560e007335234b83c7e215deabaa3186a0da46f7
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Mon Dec 12 01:50:23 2022 +0100
+
+    bool.c uploaded
+
+commit 50d8efadefdc9cb3a84d47b2cb6f133e90914fc5
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Dec 11 22:44:34 2022 +0100
+
+    FIle mode changed
+
+commit 792261ddb0f16490936a7de1d4a43e1c819c540c
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Dec 11 16:17:44 2022 +0100
+
+    mode changed
+
+commit 9779c855423d99d8564d9830a29eab06f8511f25
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Dec 11 16:16:05 2022 +0100
+
+    Some files uploaded
+
+commit 2806993b1cc3e1606c347d27814a00bc878c8c2e
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Dec 11 11:22:40 2022 +0100
+
+    filter.py addded
+
+commit 122a6ea7abe403c02840ec44caf2ddd05c66d1e6
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Dec 11 10:48:32 2022 +0100
+
+    set_com.py added
+
+commit 6abe1ebf25d6c08c655fc287934f4d8cd3c45012
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Dec 11 10:47:22 2022 +0100
+
+    list_com.py updated
+
+commit 08c13e602ff6b370e4ae3ad38c8273ee47be7921
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Dec 11 10:45:21 2022 +0100
+
+    list_com.py updated
+
+commit 6c0d1ad708d89f13339087a27f8cb5fcc13f7831
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Dec 11 10:40:17 2022 +0100
+
+    list_com.py updated
+
+commit bae4e3d22876b0e31c8631fd6eed380dac0c253d
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Dec 11 10:29:39 2022 +0100
+
+    list Comprehension
+
+commit 86e172999137fd2fd388b6236e0862c5394f7529
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Dec 11 10:21:19 2022 +0100
+
+    Making some .py files executable
+
+commit 94dbfecabbb63fbc70021e12f564e66d09e73c8d
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Sun Dec 11 10:19:41 2022 +0100
+
+    Added some .py files
+
+commit de1ec0afc544d51a36361e5c7d114aab1de709a4
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Thu Dec 8 11:18:04 2022 +0100
+
+    made some files executable
+
+commit 5a10be61084cf5d0cafa804e2e0f11e44e2c9c02
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Wed Dec 7 14:37:06 2022 +0100
+
+    odd.py file fully editted
+
+commit 4c37edfc22b1085c975035991c3c7be8fb9d2505
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Wed Dec 7 13:50:38 2022 +0100
+
+    Using for loop to compute squares
+
+commit bcaf3f8ffbb72aa348f79972a2fcaef9681a95da
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Wed Dec 7 13:49:49 2022 +0100
+
+    Using for loop to compute odd numbers
+
+commit 1b0155a71097724485256c8a839102f5c12a7f94
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Wed Dec 7 13:24:47 2022 +0100
+
+    Some .swp files removed
+
+commit 3ed5d8f019b7bcad456e4ccf6673f1477466a25a
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Wed Dec 7 13:18:25 2022 +0100
+
+    Some files added
+
+commit 4ba4fc735b6a7fadd565985d35d4e06b01cb5c42
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Wed Dec 7 12:14:58 2022 +0100
+
+    Some files updated
+
+commit e3cf6f441175de15a62246119e12bb9e7c25a171
+Author: Olamide Emmanuel Ogundare <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Dec 6 06:16:23 2022 -0800
+
+    Delete python/__pycache__ directory
+
+commit d96e24ddac4f36e380769d381048b622bd897c2c
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Dec 6 15:14:46 2022 +0100
+
+    Adding more files
+
+commit 9513346784fd6f8d4d5244b57eb2241f8cc10f45
+Author: Ogundare Olamide Emmanuel <ogundareolamideemmanuel@gmail.com>
+Date:   Tue Dec 6 14:04:49 2022 +0000
+
+    Adding new Directories and Files
