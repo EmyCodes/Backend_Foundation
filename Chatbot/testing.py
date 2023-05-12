@@ -7,10 +7,13 @@ chatbot = ChatBot('DeepChat')
 
 conversation = [
     "Hello",
-    "Hi there!",
+    "Hi there, how may I help you today!",
+    "What's your name",
+    "I am a Bot named DeepChat. You like it!!",
     "How are you doing",
-    "I'm doing great",
-    "That is good to hear",
+    "Sorry, I'm a Bot I don't have feelings",
+    "How old are you",
+    "Sorry, I'm a Bot I'm ageless",
     "Thank you",
     "You're welcome."
 ]
@@ -19,5 +22,5 @@ trainer = ListTrainer(chatbot)
 
 trainer.train(conversation)
 
-response = chatbot.get_response(str(input("Type your message...")))
-print(response)
+response = chatbot.get_response(str(input("\nUser: ")))
+print("\nBot: {}\n".format(response))
