@@ -6,11 +6,10 @@ from chatterbot.trainers import ListTrainer, ChatterBotCorpusTrainer
 # Creating instance
 bot = ChatBot('DeepChat', read_only=False, logic_adapters=[
     {
-        "import_path": "chatterbot.logic.BestMatch"
+        "import_path": "chatterbot.logic.BestMatch",
         "default_response": "Sorry I don't have an answer",
         "maximum_similarity_threshold": 0.9
     }
-    
 ])
 
 # list to Training
