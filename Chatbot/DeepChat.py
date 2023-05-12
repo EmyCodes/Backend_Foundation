@@ -61,17 +61,16 @@ while running:
     # Get user's input
     response = str(input('\nUser: '))
 
-    # checks whether the input is valid with the bot training
-    if response in list_to_train:
-        response = response.capitalize()
-        response = bot.get_response(response)
-        print('\nDeepChat: {}\n'.format(response))
-    elif response=='':
+    # Handling Errors from users
+    if response=='':
         print("DeepChat: You asked nothing...")
         pass
-    elif response.lower() in quit_commands:
+    elif response in quit_commands:
         print("\nDeepChat: Alright, Bye. See you soon! \n")
         break
     else:
-        print("\nDeepChat: Sorry, I don't have an answer to '{}'?\n".format(response))
+        # print("\nDeepChat: Sorry, I don't have an answer to '{}'?\n".format(response))
+        response = bot.get_response(response)
+        print('\nDeepChat: {}\n'.format(response))
 
+print("\n\t--------------------------------Byeeeee--------------------------------\n")
