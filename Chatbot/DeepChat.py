@@ -59,7 +59,7 @@ print("\n\t--------------------------------DeepChat-----------------------------
 running = True
 while running:
     # Get user's input
-    response = str(input('\nUser: '))
+    response = str(input('\nMe: '))
 
     # Handling Errors from users
     if response=='':
