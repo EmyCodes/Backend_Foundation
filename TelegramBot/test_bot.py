@@ -4,9 +4,11 @@
 
 import json
 import requests
+import sys
 
 
-url = "https://api.telegram.org/bot6225658854:AAGfSl53gx7MZ8Sm-upqF04Ie8DZruPYyWM/getUpdates"
+token = sys.argv[1]
+url = "https://api.telegram.org/bot{}/getUpdates".format(token)
 response = requests.get(url)
 # Parse to json
 response = response.text
