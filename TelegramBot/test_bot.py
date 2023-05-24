@@ -18,10 +18,12 @@ response_json = response.json()
 #    json.dump(response, file_, ensure_ascii=False)
 
 with open("telegram_api.text", "w", encoding='utf-8') as file_:
-    file_.write(str(response))
+    file_.write(str(response_json))
 
 # url = str(url) + "?offset=770271262"
 # response = requests.get(url)
 # for k, v in response:
 #    print("{}\t{}".format)
-print(response_json'result'][0]('message')["from"])
+# Access the 'from' field
+from_field = response_json['result'][0]['message']['from']['first_name']
+print('Hey ' + from_field.split()[0])
