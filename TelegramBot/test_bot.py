@@ -11,12 +11,17 @@ token = sys.argv[1]
 url = "https://api.telegram.org/bot{}/getUpdates".format(token)
 response = requests.get(url)
 # Parse to json
-response = response.text
+response_json = response.json()
+# response = response.text
 
 # with open("telegram_api.json", 'w', encoding='utf-8') as file_:
 #    json.dump(response, file_, ensure_ascii=False)
 
 with open("telegram_api.text", "w", encoding='utf-8') as file_:
-    file_.write(response)
+    file_.write(str(response))
 
-# print(response)
+# url = str(url) + "?offset=770271262"
+# response = requests.get(url)
+# for k, v in response:
+#    print("{}\t{}".format)
+print(response['result'][0]('message')["from"])
