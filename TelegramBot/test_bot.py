@@ -24,4 +24,4 @@ with open("telegram_api.text", "w", encoding='utf-8') as file_:
 # response = requests.get(url)
 # for k, v in response:
 #    print("{}\t{}".format)
-print(response['result'][0]('message')["from"])
+print(response_json'result'][0]('message')["from"])
