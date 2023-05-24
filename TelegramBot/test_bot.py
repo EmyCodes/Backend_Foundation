@@ -26,4 +26,4 @@ with open("telegram_api.text", "w", encoding='utf-8') as file_:
 #    print("{}\t{}".format)
 # Access the 'from' field
 from_field = response_json['result'][0]['message']['from']['first_name']
-print('Hey ' + from_field.split()[0])
+print('Hey {}!'.format(from_field.split()[0]))
