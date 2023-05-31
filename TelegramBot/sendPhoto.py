@@ -1,7 +1,6 @@
 #/usr/bin/python3
 
 import requests
-import sys
 import time
 
 token = "6225658854:AAHbEAoqdFo-gcXrEcEU5uqTYw8MjX36dqc"
@@ -18,7 +17,7 @@ photos_urls = [
 for url in photos_urls:
     time.sleep(5)
     parameters = {
-        "chat_id": "956127600",
+        "chat_id": "-1001579133774",
         "photo": url,
         "caption": "Photo {}".format(url)
     }
