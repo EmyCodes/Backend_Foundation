@@ -18,7 +18,7 @@ photos_urls = [
 for url in photos_urls:
     time.sleep(5)
     parameters = {
-        "chat_id": "-1001579133774",
+        "chat_id": "956127600",
         "photo": url,
         "caption": "Photo {}".format(url)
     }
