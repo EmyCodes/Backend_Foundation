@@ -13,9 +13,14 @@ def read_msg():
         "offset": "770271270"
     }
 
-    response = requests.get(base_url + "/getUpdates", data = parameters)
-
+    response = requests.get(base_url + "/getUpdates", data=parameters)
     data = response.json()
 
     for result in data["result"]:
-        print(result["message"]["text"])
+        if "message" in result:
+            print(result["message"]["text"])
+        elif "edited_message" in result:
+            print(result["edited_message"]["text"])
+
+# Call the function
+read_msg()
