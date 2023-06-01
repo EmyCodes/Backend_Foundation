@@ -7,9 +7,9 @@ token = "6225658854:AAHbEAoqdFo-gcXrEcEU5uqTYw8MjX36dqc"
 base_url = "https://api.telegram.org/bot{}/sendPhoto".format(token)
 
 audios_urls = [
-    "https://t.me/RevdAtegberoteachings/307",
-    "https://t.me/RevdAtegberoteachings/308",
-    "https://t.me/RevdAtegberoteachings/309"
+    "https://www.boomplay.com/songs/125335440?srModel=COPYLINK&srList=WEB",
+    "https://www.boomplay.com/songs/116836286?srModel=COPYLINK&srList=WEB",
+    "https://www.boomplay.com/songs/123079560?srModel=COPYLINK&srList=WEB"
 ]
 
 for url in audios_urls:
