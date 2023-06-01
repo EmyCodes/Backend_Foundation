@@ -21,4 +21,4 @@ for url in audios_urls:
     }
     
     response = requests.get(base_url, data=parameters)
-    print(response.text)
+    # print(response.text)
