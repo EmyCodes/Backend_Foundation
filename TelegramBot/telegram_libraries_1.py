@@ -25,3 +25,7 @@ def mamuro(update, context):
 
 def niyero(update, context):
     update.message.reply_text("Click here to learn more about emycodes: https://wwww.niyero.tech")
+
+
+def contact(update, context):
+    update.message.reply_text("You may contact us on this website: https://www.deepchat.org/")
