@@ -11,11 +11,18 @@
         function getMessage(name) {
             // return "Hello, " + name + "....";
             return `Hello, ${name}...`;
-        }
+        };
         const message = getMessage("EmyCodes");
         document.write(message);
 
         // TODO: Add setTimeout code
+
+        setTimeout(
+            () => {
+                document.write("...Hello again!!!");
+            },
+            3000
+        );
 
     </script>
 </body>
