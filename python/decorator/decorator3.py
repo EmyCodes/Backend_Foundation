@@ -11,7 +11,7 @@ def performance(fn):
 
 @performance
 def long_time():
-	for i in range(10000000000):
+	for i in range(1000):
 		i
 
 long_time()
