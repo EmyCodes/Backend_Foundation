@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main - C program that prints
- * 
+ * main - C program that prints using puts() function
  * Return: Always 0 (Success)
  */
 int main(void)
