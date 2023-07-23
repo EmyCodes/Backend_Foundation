@@ -1,0 +1,2 @@
+// Script liss all documents with a specific key and value
+db.school.find({"name": "Holberton school"})
