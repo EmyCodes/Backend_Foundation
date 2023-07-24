@@ -2,11 +2,13 @@
 import asyncio
 
 
-async_generator = __import__(0-async_comprehension).async_generator
+async_generator = __import__('0-async_generator').async_generator
 
 
 async def async_comprehension():
-    comprehesion = []
-    for i in async_generator():
+    """ comprehesion = []
+    async for i in async_generator():
         comprehesion.append(i)
-    return comprehesion
+    return comprehesion """
+    
+    return [element async for element in async_generator()]
