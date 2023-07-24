@@ -1,6 +1,6 @@
 #!/usr/bin/node
-function getHello() {
-	return "Hello!";
+function getHello () {
+  return 'Hello!';
 }
 
 const helloTest = getHello();

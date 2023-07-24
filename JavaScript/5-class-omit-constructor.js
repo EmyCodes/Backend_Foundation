@@ -1,9 +1,8 @@
 #!/usr/bin/node
 class Animal {
-
-	sleep() {
-		console.log('zzzzzzzz');
-	}
+  sleep () {
+    console.log('zzzzzzzz');
+  }
 }
 
 const spot = new Animal();
