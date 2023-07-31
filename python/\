@@ -11,7 +11,7 @@ def uppercase(str):
         if (i >= 'a') and (i <= 'z'):
             ascii_diff = 97 - 65
             converted_i = ord(i) - ascii_diff
-            print(converted_i)
+            # print(onverted_i)
             convert_back = chr(converted_i)
-            # print(convert_back, end="")
-    print()
+            print(convert_back, end="")
+            return convert_back
