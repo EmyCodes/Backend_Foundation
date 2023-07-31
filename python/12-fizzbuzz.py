@@ -8,9 +8,11 @@ def fizzbuzz():
     separated by a space"""
     for i in range(1, 101):
         """Looping through"""
-        if i % (3 * 5):
-            print("{}".format("FizzBuzz"))
-        elif i% 3:
-            print("{}".format("Fizz"))
-        elif i % 5:
-            print("{}".format("Buzz"))
+        if i % (3 * 5) == 0:
+            print("{}".format("FizzBuzz"), end=' ')
+        elif i % 3 == 0:
+            print("{}".format("Fizz"), end=' ')
+        elif i % 5 == 0:
+            print("{}".format("Buzz"), end=' ')
+        else:
+            print(i, end=' ')
