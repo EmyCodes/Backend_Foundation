@@ -1,11 +1,13 @@
 #!/usr/bin/python3
-"""Add function"""
-
-from add_0 import add
+"""Function"""
 
 
-def add(a, b):
-    """Defining function"""
-    a = 1
-    b = 2
-    print("{} + {} = {}".format(a, b, add(a, b))
+from add_0 import add as adding
+
+
+if __name__ == "__main__":
+    def add(a, b):
+        """Function"""
+        a = 1
+        b = 2
+        print("{} + {} = {}".format(a, b, adding(a, b)))
