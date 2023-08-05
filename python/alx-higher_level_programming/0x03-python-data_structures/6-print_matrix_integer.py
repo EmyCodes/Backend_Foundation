@@ -4,6 +4,7 @@
 
 def print_matrix_integer(matrix=[[]]):
     """function that prints a matrix of integers."""
-    for i in matrix:
-        for j in i:
-            print("{:d}".format(j, end=" "))
+    for i in range(0, len(matrix)):
+        #print(matrix[i])
+        for j in range(0, len(matrix[i])):
+            print("{:d} ".format(matrix[i][j]))
