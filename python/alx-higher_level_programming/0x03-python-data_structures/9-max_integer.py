@@ -7,5 +7,10 @@ def max_integer(my_list=[]):
     if len(my_list) == 0:
         return None
     else:
-        new_list = my_list.sort()
-        return new_list[-1]
+        new_list = my_list[0]
+        for element in my_list:
+            if element > new_list:
+                new_list = element
+        return new_list
+        # new_list = my_list.sort()
+        # return new_list
