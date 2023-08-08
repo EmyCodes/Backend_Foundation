@@ -12,8 +12,10 @@ def search_replace(my_list, search, replace):
     """
     new_list = my_list[:]
     # new_list = my_list.copy()
-    for value in new_list:
-        if search == value:
-            value = replace
-            print(value)
-
+    for index in range(len(new_list)):
+        if new_list[index] == search:
+            new_list[index] = replace
+    # return new_list
+    # if search in new_list:
+    #    search = replace
+    return new_list
