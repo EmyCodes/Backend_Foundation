@@ -15,7 +15,7 @@ def user(name="EmyCodes"):
     return f"<h1>Hello {name}</h1>!"
 
 def admin():
-    return return(url_for("home"))
+    return(url_for("home"))
 
 
 if __name__ == "__main__":
