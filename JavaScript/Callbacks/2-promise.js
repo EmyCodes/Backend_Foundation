@@ -11,6 +11,6 @@ const myPromise = new Promise((myResolve, myReject) => {
 });
 
 myPromise.then(
-  (value) => { console.log(value); },
-  (error) => { console.log(error); }
+  (value) => console.log(value),
+  (error) => console.log(error)
 );
