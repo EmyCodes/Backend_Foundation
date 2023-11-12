@@ -9,7 +9,7 @@ from sys import argv
 if __name__ == "__main__":
     # Create Engine
     engine = create_engine(
-        f"mysql+mysqldb:{argv[1]:argv[2]@localhost}/{argv[3]}")
+        f"mysql+mysqldb://{argv[1]}:{argv[2]}@localhost/{argv[3]}")
     Session = sessionmaker()
     session = Session(bind=engine)
 
