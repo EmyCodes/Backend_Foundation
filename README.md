@@ -1,1 +1,1 @@
-Exercises on Python, C, and C++
+Exercises on Python, C/C++ and JavaScript
